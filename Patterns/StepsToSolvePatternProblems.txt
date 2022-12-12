@@ -1,0 +1,23 @@
+We will use nested loop to solve most of the pattern problems
+
+Nested Loop:- Loop inside a loop
+for() => outer loop
+{
+    for() => inner loop
+}
+
+eg. To Print below pattern, we will follow below steps
+*
+**
+***
+****
+
+Steps:
+1) Check No. of lines to be printed
+=> here it is Four, so OUTER LOOP will run 4 times.
+
+2) Check How many no. of times a character/symbol is printed
+=> here it is printing the same no. of times the no. of line. i.e. Second line has 2 * printed
+
+3) What we are printing
+=> here we are printing *
