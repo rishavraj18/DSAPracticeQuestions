@@ -1,5 +1,11 @@
 package Patterns;
 
+// Output:
+// ****
+// ***
+// **
+// *
+
 public class PrintInvertedStar {
     public static void main(String[] arg){
         int noOfLines = 4;
