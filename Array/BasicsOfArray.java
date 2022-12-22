@@ -21,10 +21,14 @@ public class BasicsOfArray {
         System.out.println("Chem: "+marks[1] );
         System.out.println("Maths: "+marks[2] );
 
+        // Length of Array
+        System.out.println("Array length: "+ marks.length);
+
         // Output
         // Phy: 95  
         // Chem: 97 
         // Maths: 99
+        // Array length: 10
 
     }
 }
